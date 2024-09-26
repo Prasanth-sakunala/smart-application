@@ -1,0 +1,43 @@
+.reviewContainer {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.reviewGroup {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.reviewGroup label {
+  font-weight: bold;
+  flex: 1;
+}
+
+.reviewGroup p{
+  flex: 2;
+}
+
+.reviewGroup img {
+  margin-right: 450px;
+}
+.sigCanvas {
+  border: 1px solid #ccc;
+  margin-top: 10px;
+}
+.signature{
+  flex: 2;
+}
+
+.submitButton {
+  padding: 10px 20px;
+  background-color: #1c87c9;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.submitButton:hover {
+  background-color: #1e6fa0;
+}
