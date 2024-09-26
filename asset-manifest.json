@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/smartdoc-manager/static/css/main.63110353.css",
+    "main.js": "/smartdoc-manager/static/js/main.af0019b7.js",
+    "static/js/213.bac94f55.chunk.js": "/smartdoc-manager/static/js/213.bac94f55.chunk.js",
+    "static/js/732.2c08376c.chunk.js": "/smartdoc-manager/static/js/732.2c08376c.chunk.js",
+    "static/js/453.0b2ed542.chunk.js": "/smartdoc-manager/static/js/453.0b2ed542.chunk.js",
+    "index.html": "/smartdoc-manager/index.html",
+    "main.63110353.css.map": "/smartdoc-manager/static/css/main.63110353.css.map",
+    "main.af0019b7.js.map": "/smartdoc-manager/static/js/main.af0019b7.js.map",
+    "213.bac94f55.chunk.js.map": "/smartdoc-manager/static/js/213.bac94f55.chunk.js.map",
+    "732.2c08376c.chunk.js.map": "/smartdoc-manager/static/js/732.2c08376c.chunk.js.map",
+    "453.0b2ed542.chunk.js.map": "/smartdoc-manager/static/js/453.0b2ed542.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63110353.css",
+    "static/js/main.af0019b7.js"
+  ]
+}
